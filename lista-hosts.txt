@@ -1,0 +1,25 @@
+# Android privacy hosts - conservative survey/rewards tracker list
+# Generated for privacy filtering.
+# Remove a line if it causes a required app feature to stop working.
+
+0.0.0.0 app.adjust.com
+0.0.0.0 adjust.com
+0.0.0.0 adj.st
+
+0.0.0.0 appsflyer.com
+0.0.0.0 app.appsflyer.com
+0.0.0.0 t.appsflyer.com
+
+0.0.0.0 applovin.com
+0.0.0.0 applvn.com
+
+0.0.0.0 unityads.unity3d.com
+
+0.0.0.0 vungle.com
+0.0.0.0 ironsrc.com
+
+0.0.0.0 inmobi.com
+0.0.0.0 chartboost.com
+
+0.0.0.0 tapjoy.com
+0.0.0.0 fyber.com
